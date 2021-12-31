@@ -1,0 +1,10 @@
+Day 3:
+
+Create a Logistic Regression model on Azure ML Studio 
+
+The dataset named ‘Breast cancer’ is there in the saved Datasets. Build 
+logistic regression model to predict whether patient has cancer or not 
+in azure Machine learning studio. Also perform required data preprocessing
+activities on dataset, if required. 
+
+https://studio.azureml.net/
